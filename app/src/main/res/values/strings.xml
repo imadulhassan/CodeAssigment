@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeAssesment</string>
+    <string name="user_image">User Image</string>
+    <string name="progress_loader">Progress Loader</string>
+    <string name="viewpagerimage">viewpagerImage</string>
+    <string name="search_hint">Search</string>
+
+</resources>
